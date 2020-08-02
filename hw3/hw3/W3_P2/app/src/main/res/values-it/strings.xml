@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cold">Fa freddo</string>
+    <string name="notcold">Non fa freddo</string>
+    <string name="celsius">Centigrado</string>
+</resources>
